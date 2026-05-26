@@ -1,0 +1,41 @@
+{
+    "equipments": {
+        "total station": {
+            "type": "Select Type",
+            "brand": "sokkia",
+            "model": "im52",
+            "serial": "01295n",
+            "ownership": "Owned by me",
+            "supplier": "My Office"
+        },
+        "54e": {
+            "type": "GNSS device",
+            "brand": "rt",
+            "model": "rt",
+            "serial": "r8r",
+            "ownership": "Owned by me",
+            "supplier": "My Office"
+        }
+    },
+    "logs": [
+        {
+            "equip_id": "54e",
+            "client": "anywhere",
+            "date": "2026-05-24",
+            "term": "Monthly Contract"
+        },
+        {
+            "equip_id": "54e",
+            "client": "i dont know ",
+            "start_date": "2026-05-24",
+            "end_date": "2026-05-24",
+            "term": "Monthly Contract"
+        }
+    ],
+    "device_owners": {
+        "My Office": {
+            "phone": "Internal"
+        }
+    },
+    "rented_to_companies": {}
+}
